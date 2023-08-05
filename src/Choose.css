@@ -1,0 +1,74 @@
+.Creat {
+  background-color: #F7F7F7;
+}
+.text-center h1 {
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+  }
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box_items{
+    text-align: center;
+    background-color: #fff;
+    padding: 30px;
+    margin-top: 30px;
+    transition: all 0.5s ease-in-out;
+    min-height: 304px;
+    text-align: center;
+    box-shadow: 0px 4px 20px rgba(101, 101, 101, 0.1);
+    border-radius: 10px;
+}
+.Banifit{
+    width: 33.33%;
+    padding:15px 15px;  
+}
+.name p{
+    font-size: 16px;
+    font-weight: 500;
+    color: #888888;
+}
+.no h5{
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin-bottom: 9px;
+    color: #292b2c;
+}
+.icon2 span svg{
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+}
+.box_items .icon2{
+border-radius: 100%;
+  display: inline-block;
+  padding: 20px;
+  position: relative;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  margin-bottom: 1rem !important;
+}
+.box_items:hover {
+    transform: translateY(-20px)
+}
+.box_items:hover .icon2::after {
+    margin: 5px;
+    opacity: 1;
+  }
+.icon2::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    border: 3px solid #fff;
+    border-radius: 100%;
+    margin: 0px;
+    opacity: 0;
+    transition: all 0.2s ease-in-out;
+}

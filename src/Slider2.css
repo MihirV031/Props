@@ -1,0 +1,15 @@
+.slider2{
+    padding: 0px 5px;
+}
+.slider2 img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+.sub_heading{
+    font-size: 16px;
+    margin: 10px;
+}
+.text-center h1{
+    text-align: center;
+    margin-bottom: 50px;
+  }

@@ -1,0 +1,26 @@
+
+.owl-carousel .owl-nav button.owl-prev{
+    position: absolute;
+    top: 40%;
+    left: 5%;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #2f2f2f;
+}
+.owl-carousel .owl-nav button.owl-next{
+    position: absolute;
+    top: 40%;
+    right: 5%;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #2f2f2f;
+}
+.owl-carousel .owl-nav button.owl-next span,
+.owl-carousel .owl-nav button.owl-prev span{
+    font-size: 40px;
+    font-weight: 500;
+    color: white;
+}

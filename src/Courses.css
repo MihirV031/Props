@@ -1,0 +1,115 @@
+.container{
+    width: 1140px;
+    margin: 0 auto;
+    padding: 12px 15px;
+}
+.text-center{
+    text-align: center;
+    margin-top: 100px;
+  }
+  .sub-heading{
+    font-size: 18px;
+  }
+  .main-heading h2{
+    padding-top: 10px;
+    font-size: 36px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  .medium_divider {
+    height: 70px;
+  }
+  .batan {
+    align-items: center !important;
+    text-align: center;
+    margin-bottom:30px ;
+  }
+  .btn-default:hover {
+    background-color: #DF9C00;
+    border-color: #DF9C00;
+    color: #fff;
+  }
+  .btn {
+    border-width: 2px;
+    cursor: pointer;
+    line-height: normal;
+    padding: 12px 30px;
+    text-transform: capitalize;
+    transition: all 0.5s ease-in-out;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+  }
+.btn:hover {
+    box-shadow: none;
+    outline: medium none;
+  }
+  .btn-default {
+    background-color: #FFBC06;
+    border: 2px solid #FFBC06;
+    color: #ffffff !important;
+    padding: 12px 30px;
+    border-radius: 6px;
+  }
+  .btn span {
+    font-size: 22px;
+    vertical-align: middle;
+    line-height: 1;
+    margin-left: 3px;
+  }    
+.slider1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+li{
+    list-style: none;
+}
+.choose{
+    background-color: #fff;
+    margin-top: 30px;
+    box-shadow: 0 0px 3px #ccc;
+    border-radius: 10px;
+    transition: .5s;
+}
+.choose img{
+    border-radius:10px 10px 0px 0px;
+}
+.star{
+    border-top: 1px solid #ccc;
+    padding: 10px 5px;
+    align-items: center;
+}
+.star{
+    display: flex;
+    justify-content: space-between;
+}
+.star a{
+    background-color: #003366;
+    padding: 10px 15px;
+    border-radius: 3px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #fff;
+    margin: 8px;
+}
+.star span svg{
+    margin:0px 2px;
+    color: #FFC600;
+    font-size: 15px;
+}
+.choose_text{
+    padding: 10px 10px;
+}
+.choose_text h2{
+    font-size: 20px;
+    font-weight: 700;
+    transition: .5s;
+}
+.choose_text h2:hover{
+    color: #FFC600;
+}
+.choose:hover{
+    box-shadow:0px 10px 30px #ddd;
+}

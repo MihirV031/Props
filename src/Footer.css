@@ -1,0 +1,134 @@
+.bg_them_blue{
+    background-color: #003366;
+    padding: 100px 0px;
+}
+.img_tag img{
+    width: 250px;
+    margin-bottom: 10px;
+}
+.Mihir,.d-flex{
+    display: flex;
+}
+.widht{
+    width: 400px;
+}
+.widht p{
+    font-size: 14px;
+    color: white;
+    font-weight: 500;
+    text-align: justify !important;
+    margin-bottom: 24px;
+}
+.widget_title{
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: #D6BC06;
+}
+.Mihir li a {
+    font-size: 18px;
+    margin: 0px 2px;
+    height: 30px;
+    width: 30px;
+    padding-top: 3px;
+    line-height: 30px;
+    display: inline-block;
+    text-align: center;
+    background-color:  rgba(255,255,255,0.1);
+    color: white;
+    border-radius: 5px;
+    transition: .5s;
+}
+.Mihir li a:hover{
+    color: #FFBC06;
+}
+.details{
+    width: 300px;
+    margin:0px 25px;
+}
+.Link{
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: white;
+}
+.about_tex li{
+    padding-bottom: 15px;
+    font-size: 14px;
+    color: white;
+    font-weight: 700;
+    transition: .5s;
+}
+.about_tex li a{
+    font-size: 14px;
+    color: white;
+    padding: 0px 5px;
+    font-weight: 600;
+    transition: .5s;
+}
+.about_tex li a:hover{
+    color: #FFBC06;
+    padding-left: 5px;
+}
+.about_tex li:hover{
+    color: #FFBC06;
+    padding-left: 5px;
+}
+.contex1_ditels{
+    width: 450px;
+}
+.head_ditels h6 a{
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFBC06;
+}
+.head_ditels h6 a:hover{
+    text-decoration: underline;
+}
+.head_ditels h6{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.sup1{
+   font-size: 16px;
+   color: white;
+   font-weight: 500;
+}
+.sup1 p{
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.sup1 a{
+    font-size: 15px;
+   color: #FFBC06;
+   font-weight: 600;
+   transition: .5s;
+}
+.botam li{
+    font-size: 14px;
+    padding: 8px 0px;
+    color: white;
+   transition: .5s;
+}
+.footer_bgcolor{
+    background-color: #072044;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 30px 0px;
+}
+.sup1 a:hover{
+    color: #FFBC06;
+    padding-left: 5px;
+}
+.botam li:hover{
+    color: #FFBC06;
+    padding-left: 5px;
+}
+
